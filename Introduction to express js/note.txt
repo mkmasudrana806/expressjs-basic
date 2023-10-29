@@ -1,0 +1,1 @@
+this project contains express() function and app object means main server object or we can say that application object
